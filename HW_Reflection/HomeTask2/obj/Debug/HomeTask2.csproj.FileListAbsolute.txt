@@ -1,0 +1,5 @@
+C:\Users\Alisher\OneDrive\Documents\Академия Шаг\C#\DZ\Reflection\HW_Reflection\HomeTask2\bin\Debug\HomeTask2.exe.config
+C:\Users\Alisher\OneDrive\Documents\Академия Шаг\C#\DZ\Reflection\HW_Reflection\HomeTask2\bin\Debug\HomeTask2.exe
+C:\Users\Alisher\OneDrive\Documents\Академия Шаг\C#\DZ\Reflection\HW_Reflection\HomeTask2\bin\Debug\HomeTask2.pdb
+C:\Users\Alisher\OneDrive\Documents\Академия Шаг\C#\DZ\Reflection\HW_Reflection\HomeTask2\obj\Debug\HomeTask2.exe
+C:\Users\Alisher\OneDrive\Documents\Академия Шаг\C#\DZ\Reflection\HW_Reflection\HomeTask2\obj\Debug\HomeTask2.pdb
